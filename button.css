@@ -1,0 +1,128 @@
+.Request-now{
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 100px;
+    border: none;
+    cursor: pointer;
+    margin-right: 30px;
+}
+
+.add-to-cart{
+    background-color: rgb(225, 216, 20);
+    color: black;
+    height: 30px;
+    width: 100px;
+    cursor: pointer;
+    border: none;
+    border-radius: 50px;
+    margin-right: 30px;
+}
+
+.Sign-up{
+    background-color: rgb(46, 164, 79);
+    color: white;
+    height: 30px;
+    width: 100px;
+    cursor: pointer;
+    border: none;
+    border-radius: 2px;
+    margin-right: 30px;
+}
+
+.get-started{
+    background-color: rgb(121, 82, 179);
+    color: white;
+    height: 30px;
+    width: 100px;
+    cursor: pointer;
+    border: none;
+    border-radius: 2px;
+    margin-right: 30px;
+}
+
+.download{
+    background-color: white;
+    border-color: rgb(108, 117, 125);
+    border-style: solid;
+    border-width: 1px;
+    color: rgb(108, 117, 125);
+    height: 30px;
+    width: 100px;
+    cursor: pointer;
+    border-radius: 2px;
+    margin-right: 30px;
+}
+
+.bord{
+    background-color: aquamarine;
+    height: 30px;
+    width: 270px;
+    padding: 10px;
+}
+
+.apply{
+    background-color: rgb(10, 102, 194);
+    color: white;
+    height: 30px;
+    width: 200px;
+    cursor: pointer;
+    border: none;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+
+.save{
+    background-color: white;
+    border-color: rgb(10, 102, 194);
+    border-style: solid;
+    border-width: 1px;
+    color: rgb(10, 102, 194);
+    height: 30px;
+    width: 80px;
+    cursor: pointer;
+    border-radius: 50px;
+    margin-right: 30px;
+}
+
+.linkedin{
+    background-color: aqua;
+    height: 30px;
+    width: 350px;
+    padding: 10px;
+}
+
+a{
+    color: rgb(0, 113, 133);
+}
+
+.stock{
+    color: rgb(0, 118, 0);
+    font-weight: bold;
+}
+
+.cart{
+    background-color: (255, 216, 20);
+    border-radius: 50px;
+    color:black;
+    cursor: pointer;
+    height: 30px;
+    width: 100px;
+    border: none;
+}
+
+.buy{
+
+    background-color: rgb(255, 164, 28);
+    border-radius: 50px;
+    color: black;
+    cursor: pointer;
+    height: 30px;
+    width: 80px;
+    border: none;
+}
+
+.shoe{
+    font-size: 24px;
+    font-weight: bold;
+}
