@@ -364,3 +364,54 @@ a:hover{
     padding-left: 30px;
     padding-right: 30px;
 }
+
+p{
+    font-family: arial;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 28px;
+    color: brown;
+    width: 480px;
+    line-height: 35px;
+    margin-bottom: 0;
+}
+
+.stats{
+    margin-top: 18px;
+    margin-bottom: 0;
+    font-size: 20px;
+    color: gray;
+}
+
+.user{
+    margin-top:40px;
+    margin-bottom: 0;
+}
+
+.long-text{
+    width: 420px;
+    color: gray;
+    font-size: 18px;
+    margin-top: 30px;
+}
+
+.footer{
+    background-color: brown;
+    color:white;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-top: 300px;
+    margin-bottom: 20px;
+}
+
+.span{
+    cursor: pointer;
+}
+
+.span:hover{
+    text-decoration: underline;
+}
