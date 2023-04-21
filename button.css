@@ -192,3 +192,113 @@ a:hover{
     font-size: 24px;
     font-weight: bold;
 }
+
+.subscribe{
+    background-color: rgb(105, 27, 27);
+    color: white;
+    padding: 10px;
+    margin-right: 10px;
+    transition: background-color 0.15s, color 0.15s;
+    cursor: pointer;
+}
+
+.subscribe:hover{
+    background-color: brown;
+    color:rgb(201, 183, 183);
+}
+
+.join{
+    background-color: white;
+    border-width: 1px;
+    border-color: blue;
+    color:blue;
+    padding: 10px;
+    border-radius: 4px;
+    margin-right: 20px;
+    transition: background color 0.15s, color 0.15s, opacity 0.15s;
+}
+
+.join:hover{
+    background-color: blue;
+    color:white;
+}
+
+.join:active{
+    opacity: 0.6;
+}
+
+.tweet{
+    background-color: blue;
+    color:white;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    transition: box-shadow 0.15s;
+}
+
+.tweet:hover{
+    box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.line1{
+    margin-bottom: 20px;
+}
+
+.back{
+    background-color: rgb(219, 213, 204);
+    border-width: 2px;
+    border-radius: 4px;
+    padding: 20px;
+    font-weight: bold;
+    border-color: blueviolet;
+    margin: 10px;
+    cursor: pointer;
+    transition: background-color 0.15s, color 0.15s;
+}
+
+.back:hover{
+    background-color: blueviolet;
+    color:bisque;
+}
+
+.page{
+    color: rgb(122, 122, 221);
+    margin: 10px;
+    font-weight: 700;
+    transition: color 0.15s, font-weight 0.15s;
+}
+
+.page:hover{
+    color: blue;
+    font-weight: bolder;
+}
+
+.next{
+    background-color: blue;
+    border-width: none;
+    border-radius: 4px;
+    color: white;
+    padding: 20px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+
+.next:active{
+    opacity: 0.5;
+}
+
+.grow{
+    margin: 20px;
+}
+
+.stretch{
+    background-color: rgb(4, 66, 4);
+    padding: 20px;
+    color: white;
+    cursor: pointer;
+    transition: padding 0.15s;
+}
+
+.stretch:hover{
+    padding: 40px;
+}
