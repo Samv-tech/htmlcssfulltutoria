@@ -302,3 +302,65 @@ a:hover{
 .stretch:hover{
     padding: 40px;
 }
+
+.shadow{
+    background-color: rgb(255, 123, 0);
+    color:white;
+    padding: 20px;
+    border: none;
+    cursor: pointer;
+    transition: box-shadow 0.15s;
+}
+
+.shadow:hover{
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.15);
+}
+
+.num{
+    margin: 20px;
+}
+
+.one-button{
+    background-color: rgb(255, 123, 0);
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    margin-right: 20px;
+    transition: padding-left 0.15s, padding-right 0.15s;
+}
+
+.one-button:hover{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.two-button{
+    background-color: rgb(255, 123, 0);
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    margin-right: 20px;
+    transition: padding-left 0.15s, padding-right 0.15s;
+}
+
+.two-button:hover{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.three-button{
+    background-color: rgb(255, 123, 0);
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    margin-right: 20px;
+    transition: padding-left 0.15s, padding-right 0.15s;
+}
+
+.three-button:hover{
+    padding-left: 30px;
+    padding-right: 30px;
+}
