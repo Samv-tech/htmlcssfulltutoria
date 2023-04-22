@@ -487,3 +487,121 @@ p{
 .link{
     cursor:pointer;
 }
+
+.macbook{
+    text-align: center;
+    font-family: arial;
+    margin: 0;
+}
+
+.status{
+    color: orange;
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 4px;
+}
+
+.laptop{
+    color: rgb(20, 19, 19);
+    font-size: 28px;
+    margin-bottom: 4px;
+    margin-top:0;
+}
+
+.charging{
+    font-size: 64px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 12px;
+}
+
+.pro{
+    color: blue;
+    cursor: pointer;
+}
+
+.pro:hover{
+    text-decoration: underline;
+}
+
+.price{
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.purchase{
+    background-color: blue;
+    color:white;
+    width: 100px;
+    padding: 10px;
+    border:none;
+    border-radius: 20px;
+    transition: background-color 0.15s, color 0.15s, box-shadow 0.15s;
+}
+
+.purchase:hover{
+    background-color: green;
+    color:rgb(216, 210, 203);
+    box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.calc{
+    font-family: Arial;
+}
+
+.fig-usd{
+    font-size: 36px;
+    margin:0;
+}
+
+.usd{
+    color:olivedrab;
+}
+
+.today{
+    font-size: 18px;
+    color: rgb(177, 129, 58);
+    margin-bottom: 0;
+}
+
+.percent{
+    font-size: 18px;
+    color: rgb(128, 70, 80);
+    margin-top: 8px;
+}
+
+.gur{
+    color: rgb(177, 129, 58);
+}
+
+.freecode{
+    font-family: arial;
+    margin-top: 70px;
+}
+
+.codecamp-title{
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.change{
+    color:rgb(252, 164, 2);
+    font-weight: 100;
+}
+
+.paragraph1{
+    width: 600px;
+    font-size: 18px;
+    margin-top: 12px;
+    margin-bottom: 0;
+}
+
+.ending{
+    font-size: 18px;
+    margin-top: 12px;
+}
+
+.tag{
+    color:blue
+}
